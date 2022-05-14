@@ -1,7 +1,7 @@
 {
   "name": "react_github",
   "version": "0.1.0",
-  "homepage" : "https://github.com/pranaylamsecode/react_github.git",
+  "homepage" : "https://github.com/pranaylamsecode/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
